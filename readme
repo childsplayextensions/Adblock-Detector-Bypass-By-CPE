@@ -1,24 +1,24 @@
-# AdBlock Detector Bypass by CPE
+AdBlock Detector Bypass by CPE
 
-**AdBlock Detector Bypass by CPE** is a simple anti-adblock extension that bypasses adblock detected pop-ups and restores access to adblock-restricted websites.
+AdBlock Detector Bypass by CPE is a simple anti-adblock extension that bypasses adblock detected pop-ups and restores access to adblock-restricted websites.
 
-## Features
+Features
 
 - Bypasses common adblock detection scripts  
 - Restores full access to websites that block content for adblock users  
 - Lightweight and runs in the background once activated 
 
-## Installation
+Installation
   
 - **Chrome:** [Chrome Web Store](https://chromewebstore.google.com/detail/adblock-detector-bypass-b/bffmkleioghafggghlaeemdgjpmbppii)  
 - **Edge:** [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/doacbcedcenjfkffcikfchngodifpnna) 
 - **Firefox:** [Firefox Add-ons](https://ff) 
 
-## Usage
+Usage
 
-Once installed, 
+Once installed, simple activiate the extension and watch it in action
 
-## Contributing
+Contributions
 
 Contributions, suggestions, and bug reports are welcome. Please open an issue or submit a pull request.
 
