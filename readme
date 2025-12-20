@@ -10,13 +10,19 @@ Features
 
 Installation
   
-- **Chrome:** [Chrome Web Store](https://chromewebstore.google.com/detail/adblock-detector-bypass-b/bffmkleioghafggghlaeemdgjpmbppii)  
-- **Edge:** [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/doacbcedcenjfkffcikfchngodifpnna) 
-- **Firefox:** [Firefox Add-ons](https://ff) 
+- Chrome: [Chrome Web Store](https://chromewebstore.google.com/detail/adblock-detector-bypass-b/bffmkleioghafggghlaeemdgjpmbppii)  
+- Edge: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/doacbcedcenjfkffcikfchngodifpnna) 
+- Firefox: [Firefox Add-ons](https://ff) 
 
 Usage
 
-Once installed, simple activiate the extension and watch it in action
+1. Install the extension on your preferred browser.  
+2. Turn on your ad blocker (if it isn’t already).  
+3. Visit a website with an adblock detection pop-up, for example:  
+   [Wild West Wiki Example](https://wildwestwiki.com/childsPlayExtensions/adblock-detector-bypass?r=install)  
+4. Activate AdBlock Detector Bypass by CPE to see it in action.  
+
+Once active, the extension automatically prevents adblock detection and lets you access the content normally.
 
 Contributions
 
